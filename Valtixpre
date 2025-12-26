@@ -1,0 +1,31 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Reformas en Mallorca</title>
+  <style>
+    body { font-family: Arial; background:#f5f5f5; margin:0; }
+    header { background:#222; color:white; padding:20px; text-align:center; }
+    section { padding:20px; }
+    img { width:100%; max-width:500px; margin:10px 0; border-radius:6px; }
+    .trabajo { background:white; padding:15px; margin-bottom:20px; border-radius:8px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Reformas en Mallorca</h1>
+  <p>Antes y después de nuestros trabajos</p>
+</header>
+
+<section class="trabajo">
+  <h2>Baño completo</h2>
+  <p><strong>Antes</strong></p>
+  <img src="antes1.jpg">
+  <p><strong>Después</strong></p>
+  <img src="despues1.jpg">
+</section>
+
+</body>
+</html>
